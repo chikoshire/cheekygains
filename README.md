@@ -8,6 +8,18 @@ CheekyGains is a native fitness product in the **All Purpose** consumer ecosyste
 
 ---
 
+
+## Marketing & public surfaces
+
+| Surface | URL |
+| --- | --- |
+| **Founder / ecosystem** | [chikoshire.com](https://chikoshire.com) |
+| **Mustard Seed Group** | [mustardseed.group](https://mustardseed.group) |
+| **Benediction Lab (Infinite Coach research)** | [benedictionlab.com](https://benedictionlab.com) |
+| **TUXX studio** | [tuxxagency.com](https://tuxxagency.com) |
+
+> Dedicated CheekyGains consumer marketing domain can be added here when it ships; ecosystem positioning lives on the founder site today.
+
 ## The idea
 
 Most fitness apps optimise for content volume. CheekyGains optimises for **standards and progression**.
